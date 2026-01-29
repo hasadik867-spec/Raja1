@@ -47,7 +47,7 @@ import os, sys
 channel_link = "https://chat.whatsapp.com/ECcsbDeb8xGGhnBI5XwTH2"
 
 # Valid keys (channel par available hogi)
-approved_keys = ["ASIM.2006"]
+approved_keys = ["ASIM X ZUBI 007"]
 
 def first_step():
     os.system("clear")
